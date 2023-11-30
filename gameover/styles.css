@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-top: 15em;
+}
+.center{
+    display: flex;
+    margin: auto;
+}
+.ano{
+    background-color: rgb(28, 201, 28);
+}
+.ne{
+    background-color: red;
+}
+button{
+    margin: 0.2em;
+    font-size: xx-large;
+    border: solid 2px black;
+    width: 3em;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: black !important;
+}
+.bg-red{
+    background-color: rgba(255, 0, 0, 0.568);
+}
+.bg-blue{
+    background-color: rgba(0, 17, 255, 0.568);
+}
